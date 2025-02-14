@@ -1,1 +1,1 @@
-# genre_movie_recommendation_system
+# genre_based_movie_recommendation_system
